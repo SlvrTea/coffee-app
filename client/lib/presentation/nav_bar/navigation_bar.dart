@@ -39,8 +39,7 @@ class NavBar extends StatelessWidget {
 
 @override
   Widget build(BuildContext context) {
-    final background = backgroundColor
-        ?? Theme.of(context).bottomNavigationBarTheme.backgroundColor;
+    final background = backgroundColor ?? Theme.of(context).bottomNavigationBarTheme.backgroundColor;
     return Container(
       decoration: BoxDecoration(
         color: background,
