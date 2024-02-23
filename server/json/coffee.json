@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": "",
+    "name": "Cappuccino",
+    "subname": "with Chocolate",
+    "description": "",
+    "price": 4.99,
+    "score": 4.8
+  },
+  {
+    "id": 2,
+    "img": "",
+    "name": "Cappuccino",
+    "subname": "with Oat Milk",
+    "description": "",
+    "price": 3.80,
+    "score": 4.6
+  }
+]
